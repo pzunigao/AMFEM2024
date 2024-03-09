@@ -1,4 +1,4 @@
-# Descripción del proyecto
+# AMFEM2024
 
 Material suplementario de la tesis de magíster titulada "Un MEF para la difusión y liberación controlada del azul de metileno desde compósitos de nanocelulosa/silicio nanoporoso". 
 

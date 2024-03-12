@@ -3,9 +3,9 @@
 ##          Jacobo Hernandez<jacobo.hernandez@uct.cl>
 ##          Paulo Zuniga<paulo.zuniga@uct.cl>
 ##=============================================================================================
-## This code is designed to simulate the second Fick's law focusing oN incorporating
+## This code is designed to simulate the second Fick's law focusing on incorporating
 ## mechanisms to address non-linearities. Users can choose between two non-linearity
-## options by setting the parameter K (either 1 or 2).
+## options by setting the parameter k (either 1 or 2).
 ##
 ## In addition to handling non-linearities, the program offers the capability to work
 ## with four distinct sample types, as provided by the LaBB-UCT dataset.

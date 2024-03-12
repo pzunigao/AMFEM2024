@@ -1,9 +1,8 @@
 ##=============================================================================================
+## Created on: 2024-03-12
 ## Authors: Marcelo Aravena<maravena@liceobicentenariotemuco.cl>
 ##          Jacobo Hernandez<jacobo.hernandez@uct.cl>
 ##          Paulo Zuniga <paulo.zuniga@uct.cl>
-##=============================================================================================
-## Created: 2023-09-12
 ##=============================================================================================
 ## This program employs the fminsearch optimization algorithm to accurately
 ## estimate the diffusion coefficient parameter within the context of Fick's law.

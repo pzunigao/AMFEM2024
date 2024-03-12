@@ -1,4 +1,5 @@
 ##=============================================================================================
+## Created on: 2024-03-12
 ## Authors: Marcelo Aravena<maravena@liceobicentenariotemuco.cl>
 ##          Jacobo Hernandez<jacobo.hernandez@uct.cl>
 ##          Paulo Zuniga<paulo.zuniga@uct.cl>

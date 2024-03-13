@@ -77,7 +77,7 @@ F10 = @(D) dat(1,10,cc)/100-sum10(D);
 
 F =@(D) [F1(D);F2(D);F3(D);F4(D);F5(D);F6(D);F7(D);F8(D);F9(D);F10(D)];
 
-#
+#Nelder-Mead simplex algorithm
 Dref = fminsearch(@(D) norm(F(D)),1);
 
 #Graphics

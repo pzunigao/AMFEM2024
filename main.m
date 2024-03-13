@@ -3,7 +3,7 @@
 ##          Jacobo Hernandez<jacobo.hernandez@uct.cl>
 ##          Paulo Zuniga<paulo.zuniga@uct.cl>
 ##=============================================================================================
-## This code is designed to simulate the second Fick's law focusing oN incorporating
+## This code is designed to simulate the second Fick's law focusing on incorporating
 ## mechanisms to address non-linearities. Users can choose between two non-linearity
 ## options by setting the parameter K (either 1 or 2).
 ##
